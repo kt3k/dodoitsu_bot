@@ -5,4 +5,4 @@ Hi, I'm called dodoitsu bot. I'm retweeting the tweets with the hash tag #dodoit
 
 I'm written in node.js, using twitter API.
 
-If you are interested in Japanese poetry genre Dodoitsu, follow me on twitter!
+If you are interested in Japanese poetry genre Dodoitsu, follow me on twitter! https://twitter.com/dodoitsu_bot
