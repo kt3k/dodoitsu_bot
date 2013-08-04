@@ -4,6 +4,8 @@ var Twit = require('twit');
 
 var conf = require('./conf.json');
 
+var TRACK_WORD = 'dodoitsu';
+
 T = new Twit({
     consumer_key: conf.consumerKey,
     consumer_secret: conf.consumerSecret,
@@ -12,7 +14,7 @@ T = new Twit({
 });
 
 var readStream = function () {
-    var stream = T.stream('statuses/filter', {track: 'dodoitsu'});
+    var stream = T.stream('statuses/filter', {track: TRACK_WORD});
 
     stream.on('tweet', function (tweet) {
         console.log(tweet);
