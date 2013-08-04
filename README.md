@@ -1,3 +1,5 @@
+![dodoits_bot](https://raw.github.com/kt3k/dodoitsu_bot/master/img/logo2.fw.png)
+
 Dodoitsu-bot
 ------------
 
