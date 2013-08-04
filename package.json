@@ -1,0 +1,22 @@
+{
+  "name": "dodoitsu_bot",
+  "version": "0.0.1",
+  "description": "dodoitsu bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": "",
+  "keywords": [
+    "dodoitsu",
+    "twitter",
+    "bot",
+    ""
+  ],
+  "author": "kt3k",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "twit": "~1.1.8"
+  }
+}
