@@ -1,4 +1,4 @@
-![dodoits_bot](https://raw.github.com/kt3k/dodoitsu_bot/master/img/logo3-76.png)
+[![dodoits_bot](https://raw.github.com/kt3k/dodoitsu_bot/master/img/logo3-76.png)](https://twitter.com/dodoitsu_bot)
 
 Dodoitsu-bot
 ------------
