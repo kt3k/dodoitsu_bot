@@ -8,10 +8,3 @@ Hi, I'm called dodoitsu bot. I'm retweeting the tweets which contain [Dodoitsu (
 I'm written in node.js, using twitter API.
 
 If you are interested in Japanese poetry genre Dodoitsu, follow me on twitter! [@dodoitsu_bot](https://twitter.com/dodoitsu_bot)
-
-TODO
-----
-
-- write tests, setup grunt
-- travis
-- bot picture, bot cover picture, bot background picture
