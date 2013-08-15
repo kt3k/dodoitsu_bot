@@ -3,8 +3,8 @@
 Dodoitsu_bot
 ------------
 
-Hi, I'm called dodoitsu bot. I'm retweeting the tweets which contain [Dodoitsu (a form of Japanse pertry)](http://en.wikipedia.org/wiki/Dodoitsu) everyday, every hour, every minute.
+Dodoitsu_bot is a twitter bot retweeting tweets which contain [Dodoitsu (a form of Japanse pertry)](http://en.wikipedia.org/wiki/Dodoitsu).
 
-I'm written in node.js, using twitter API.
+It's written in node.js, using twitter API.
 
 If you are interested in Japanese poetry genre Dodoitsu, follow me on twitter! [@dodoitsu_bot](https://twitter.com/dodoitsu_bot)
