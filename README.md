@@ -7,4 +7,4 @@ Dodoitsu_bot is a twitter bot retweeting tweets which contain [Dodoitsu (a form 
 
 It's written in node.js, using twitter API.
 
-If you are interested in Japanese poetry genre Dodoitsu, follow me on twitter! [@dodoitsu_bot](https://twitter.com/dodoitsu_bot)
+If you are interested in Japanese poetry genre Dodoitsu, follow it on twitter! [@dodoitsu_bot](https://twitter.com/dodoitsu_bot)
